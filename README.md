@@ -1,5 +1,3 @@
-# GGAT-Carto-Participative
-====
 GGAT - Promotion 2023-2024
 ====
 
